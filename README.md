@@ -1,4 +1,4 @@
-# 👩‍💻 Nuria Salas Vázquez
+# ¡Hola!👋 Soy Nuria 👋👩‍💻
 
 **Analista de Datos en transición desde el sector servicios.**  
 Apasionada por descubrir historias ocultas en los datos y visualizarlas de forma clara, atractiva y con propósito.  
