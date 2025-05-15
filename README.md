@@ -25,21 +25,21 @@ Explora datos sobre estereotipos y discursos de género.
 
 ---
 
-### 🎵 Evolución de la Música en la Pandemia *(en desarrollo)*
+### 🎵 Evolución de la Música en la Pandemia.
 Estudio de cómo cambiaron los hábitos de escucha musical durante el confinamiento.  
 Herramientas: Python, Pandas, visualizaciones.  
 [🔗 Repositorio](https://github.com/NuriaSalasVazquez/da-project-promo-49-modulo-2-team-4)
 
 ---
 
-### 👥 Retención y Satisfacción Laboral *(en desarrollo)*
+### 👥 Retención y Satisfacción Laboral.
 Análisis de factores que afectan la permanencia de empleados en una empresa.  
 Herramientas: Python, estadísticas, storytelling de datos.  
 [🔗 Repositorio](https://github.com/NuriaSalasVazquez/project-da-promo-49-modulo-3-team-4)
 
 ---
 
-### 🎮 Proyecto: Juegos Clásicos en Python *(en desarrollo)*
+### 🎮 Proyecto: Juegos Clásicos en Python .
 Mini colección de juegos como el ahorcado y el tres en raya.  
 Objetivo: practicar lógica de programación en Python.  
 [🔗 Repositorio](https://github.com/NuriaSalasVazquez/Proyecto_Modulo1)
