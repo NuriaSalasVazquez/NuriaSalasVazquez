@@ -1,8 +1,4 @@
-<h1 align="left">
-  Hi! 👋 I'm Nuria 👋👩‍💻
-  <img src="https://github.com/NuriaSalasVazquez/NuriaSalasVazquez/blob/main/imagen_readme_lateral.png" align="right" width="150">
-</h1>
-
+# Hi! 👋 I'm Nuria 👋👩‍💻
 
 Nuria here! 👋 Coming from the service industry – an incredible school for understanding the world (and now data too 😉)! My mission is to bring those cold numbers to life with clear, engaging, and... please, let them make sense! I love it when data tells stories.
 
