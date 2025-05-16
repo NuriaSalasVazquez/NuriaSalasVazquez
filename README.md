@@ -1,7 +1,7 @@
 
 <h1 align="left">
   Hi! 👋 I'm Nuria 👋👩‍💻
-  <img src="https://github.com/NuriaSalasVazquez/NuriaSalasVazquez/blob/main/imagen%20github1.png?raw=true?raw=true" 
+  <img src="https://github.com/NuriaSalasVazquez/NuriaSalasVazquez/blob/main/imagen%20github1.png?raw=true" 
        align="right" 
        style="width: 230px; height: 260px; object-fit: cover; margin-left: 10px; margin-top: 0px;">
 </h1>
