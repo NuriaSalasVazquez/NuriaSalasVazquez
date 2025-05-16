@@ -3,7 +3,7 @@
 
 Nuria here! 👋 Coming from the service industry – an incredible school for understanding the world (and now data too 😉)! My mission is to bring those cold numbers to life with clear, engaging, and... please, let them make sense! I love it when data tells stories.
 
-[![Tu Imagen Personal](ruta/a/tu/imagen.png)](https://tu_enlace_opcional.com)
+[![Tu Imagen Personal](https://github.com/NuriaSalasVazquez/NuriaSalasVazquez/blob/main/imagen%20github1.png)
 
 **Data Analyst transitioning from the service industry.**
 Passionate about uncovering hidden stories within data and visualizing them in a clear, engaging, and purposeful way.
