@@ -3,7 +3,7 @@
   Hi! 👋 I'm Nuria 👋👩‍💻
   <img src="https://github.com/NuriaSalasVazquez/NuriaSalasVazquez/blob/main/imagen%20github1.png?raw=true" 
        align="right" 
-       style="width: 230px; height: 280px; object-fit: cover; margin-left: 10px; margin-top: 0px;">
+       style="width: 230px; height: 300px; object-fit: cover; margin-left: 10px; margin-top: 0px;">
 </h1>
 
 
