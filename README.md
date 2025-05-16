@@ -3,8 +3,9 @@
   Hi! 👋 I'm Nuria 👋👩‍💻
   <img src="https://github.com/NuriaSalasVazquez/NuriaSalasVazquez/blob/main/imagen_readme_lateral.png?raw=true" 
        align="right" 
-       style="width: 250px; height: 300px; object-fit: cover; margin-left: 20px; margin-top: 10px;">
+       style="width: 230px; height: 260px; object-fit: cover; margin-left: 10px; margin-top: 0px;">
 </h1>
+
 
 
 Nuria here! 👋 Coming from the service industry – an incredible school for understanding the world (and now data too 😉)! My mission is to bring those cold numbers to life with clear, engaging, and... please, let them make sense! I love it when data tells stories.
