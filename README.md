@@ -1,6 +1,6 @@
 <h1 align="left">
   Hi! 👋 I'm Nuria 👋👩‍💻
-  <img src="https://github.com/NuriaSalasVazquez/NuriaSalasVazquez/blob/main/imagen_readme_lateral.png?raw=true" align="right" style="width: 200px; height: 180px; object-fit: cover;">
+  <img src="https://github.com/NuriaSalasVazquez/NuriaSalasVazquez/blob/main/imagen_readme_lateral.png?raw=true" align="right" style="width: 280px; height: 180px; object-fit: cover;">
 </h1>
 
 
